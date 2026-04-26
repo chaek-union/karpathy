@@ -1,0 +1,8 @@
+{
+  "title": "생명과학을 읽는 새로운 언어: 인공지능과 에이전트",
+  "root": ".",
+  "plugins": ["mermaid"],
+  "styles": {
+    "website": "styles/website.css"
+  }
+}

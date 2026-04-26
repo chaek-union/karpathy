@@ -1,0 +1,14 @@
+{
+  "name": "karpathy-llm-textbook",
+  "version": "1.0.0",
+  "description": "의생명과학도 신입생을 위한 인공지능과 에이전트 입문 HonKit textbook",
+  "dependencies": {
+    "honkit": "^6.1.4",
+    "honkit-plugin-mermaid": "^0.1.4"
+  },
+  "scripts": {
+    "build": "honkit build",
+    "postbuild": "rm -f _book/.bookignore",
+    "serve": "honkit serve"
+  }
+}

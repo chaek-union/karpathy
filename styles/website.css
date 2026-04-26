@@ -1,0 +1,27 @@
+.book .book-body .page-wrapper .page-inner section.normal details.term-note {
+  margin: 1.15em 0 1.35em;
+  border: 1px solid #d7dfd6;
+  border-radius: 6px;
+  background: #f7faf6;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal details.term-note summary {
+  cursor: pointer;
+  padding: 0.72em 0.95em;
+  font-weight: 700;
+  color: #254236;
+  list-style-position: inside;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal details.term-note[open] summary {
+  border-bottom: 1px solid #d7dfd6;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .term-note-body {
+  padding: 0.25em 0.95em 0.85em;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .term-note-body p {
+  margin: 0.58em 0;
+  line-height: 1.75;
+}
