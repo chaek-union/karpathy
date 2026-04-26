@@ -34,11 +34,11 @@ Patel, D. (2025, October 17). *Andrej Karpathy -- "We're summoning ghosts, not b
 
 https://www.youtube.com/watch?v=lXUZvyajciY
 
-이 책에서 "에이전트의 해"가 아니라 "에이전트의 10년"이라는 시간 감각, AI가 생물학적 지능과 다른 방식으로 만들어진다는 관점, AI 시대의 교육과 tutor, 지식으로 가는 ramp를 설명할 때 참고하는 인터뷰입니다.
+이 책에서 "에이전트의 해"가 아니라 "에이전트의 10년"이라는 시간 전망, AI가 생물학적 지능과 다른 방식으로 만들어진다는 관점, AI 시대의 교육과 tutor, 지식으로 가는 ramp를 설명할 때 참고하는 인터뷰입니다.
 
 주요 연결 지점:
 
-- 00:00:00: "에이전트의 해"가 아니라 "에이전트의 10년"이라는 시간 감각 ([링크](https://www.youtube.com/watch?v=lXUZvyajciY&t=0s))
+- 00:00:00: "에이전트의 해"가 아니라 "에이전트의 10년"이라는 시간 전망 ([링크](https://www.youtube.com/watch?v=lXUZvyajciY&t=0s))
 - 02:00:49: 좋은 tutor의 역할 ([링크](https://www.youtube.com/watch?v=lXUZvyajciY&t=7249s))
 - 02:02:34: 지식으로 올라가는 ramp ([링크](https://www.youtube.com/watch?v=lXUZvyajciY&t=7354s))
 
