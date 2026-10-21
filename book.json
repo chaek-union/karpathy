@@ -4,5 +4,6 @@
   "plugins": ["mermaid"],
   "styles": {
     "website": "styles/website.css"
-  }
+  },
+  "cover": "assets/karpathy-book-cover.png"
 }
